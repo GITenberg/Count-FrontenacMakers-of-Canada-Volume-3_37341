@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38779
     wikipedia: http://en.wikipedia.org/wiki/William_Dawson_LeSueur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37341#Count-FrontenacMakers-of-Canada-Volume-3
 gutenberg_issued: '2011-09-07'
 gutenberg_type: Text
 identifiers:
